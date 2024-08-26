@@ -1,4 +1,4 @@
-name: CMake
+nname: CMake
 on: [push, pull_request]
 
 env:
