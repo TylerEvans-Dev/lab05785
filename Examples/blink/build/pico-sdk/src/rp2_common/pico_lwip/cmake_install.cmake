@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/dzelm/.pico-sdk/sdk/2.0.0/src/rp2_common/pico_lwip
+# Install script for directory: C:/Users/Elmir Dzaka/.pico-sdk/sdk/2.0.0/src/rp2_common/pico_lwip
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,11 +34,11 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "C:/Users/dzelm/.pico-sdk/toolchain/13_2_Rel1/bin/arm-none-eabi-objdump.exe")
+  set(CMAKE_OBJDUMP "C:/Users/Elmir Dzaka/.pico-sdk/toolchain/13_2_Rel1/bin/arm-none-eabi-objdump.exe")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/dzelm/OneDrive/ECE6785/Examples/blink/build/pico-sdk/src/rp2_common/pico_lwip/tools/cmake_install.cmake")
+  include("C:/Users/Elmir Dzaka/OneDrive/ECE6785/Examples/blink/build/pico-sdk/src/rp2_common/pico_lwip/tools/cmake_install.cmake")
 endif()
 

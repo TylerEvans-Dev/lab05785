@@ -1,4 +1,4 @@
-// Padded and checksummed version of: C:/Users/dzelm/OneDrive/ECE6785/Examples/blink/build/pico-sdk/src/rp2040/boot_stage2/bs2_default.bin
+// Padded and checksummed version of: C:/Users/Elmir Dzaka/OneDrive/ECE6785/Examples/blink/build/pico-sdk/src/rp2040/boot_stage2/bs2_default.bin
 
 .cpu cortex-m0plus
 .thumb
